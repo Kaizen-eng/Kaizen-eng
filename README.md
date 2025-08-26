@@ -35,7 +35,8 @@ Tech enthusiast and passionate learner, currently pursuing **B.Tech in Artificia
 ## 🌐 Connect with Me
 - 📧 Email: **prasadid1125@gmail.com**  
 - 💼 LinkedIn: [Prasad M](https://www.linkedin.com/in/prasad-m-292577370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-
+- 🧩 LeetCode: [PRASAD_1127](https://leetcode.com/u/PRASAD_1127/)
+- 
 ---
 
 ✨ *"Transforming ideas into intelligent solutions."*
